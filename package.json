@@ -1,0 +1,25 @@
+{
+  "name": "gym-migrations",
+  "version": "1.0.0",
+  "description": "Gym management db migrations",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/avez-fsd/gym-migrations.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/avez-fsd/gym-migrations/issues"
+  },
+  "homepage": "https://github.com/avez-fsd/gym-migrations#readme",
+  "devDependencies": {
+    "sequelize-cli": "^6.6.1"
+  },
+  "dependencies": {
+    "sequelize": "^6.32.1"
+  }
+}
